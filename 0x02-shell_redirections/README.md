@@ -1,1 +1,1 @@
-0×02.Shell,I/O redirections and filters
+This is my readme file on shell redirectories
